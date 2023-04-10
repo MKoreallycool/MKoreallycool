@@ -9,7 +9,7 @@
 <h2>Contact</h2>
 <ul>
   <li><a href="https://vk.com/mkorealm">Vkontakte</a></li>
-  <li><a href="https://github.com/MKoreallycool">GitHub</a></li>
+  <li><a href="https://github.com/mkorealm">GitHub</a></li>
 </ul>
 
 <h2>Stats</h2>
