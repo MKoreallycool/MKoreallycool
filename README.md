@@ -13,5 +13,5 @@
 </ul>
 
 <h2>Stats</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKoreallycool&theme=transparent"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MKoreallycool&theme=transparent"/>
 <img src="https://github-readme-stats.vercel.app/api?username=MKoreallycool&show_icons=true&theme=transparent"/>
