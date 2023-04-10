@@ -14,4 +14,4 @@
 
 <h2>Stats</h2>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkorealm&theme=transparent"/>
-<img src="https://github-readme-stats.vercel.app/api?username=mkorealm&show_icons=true&theme=transparent"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkorealm&theme=transparent"/>
